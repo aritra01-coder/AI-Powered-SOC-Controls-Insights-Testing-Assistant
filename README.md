@@ -56,11 +56,12 @@ The main objectives of this project are to:
   - Relevant SOC2 principle mapping  
   - Recommended corrective actions  
 
-###Business Implications
+### 📊 Business Implications
 
-_Audit Efficiency → Reduces manual review time by 60–70%, accelerating audits.
--Improved Accuracy → Ensures complete coverage of SOC2 principles without oversight.
--Risk Visibility → Provides early identification of weak or missing controls.
--Cost Savings → Reduces the time and resources required for manual audits.
--Scalability → Capable of analyzing hundreds of compliance documents automatically.
--Decision Support → Empowers management and audit teams with actionable intelligence.
+- **Audit Efficiency** → Reduces manual review time by **60–70%**, accelerating audits.  
+- **Improved Accuracy** → Ensures complete coverage of **SOC2 principles** without oversight.  
+- **Risk Visibility** → Provides early identification of **weak or missing controls**.  
+- **Cost Savings** → Reduces the time and resources required for manual audits.  
+- **Scalability** → Capable of analyzing **hundreds of compliance documents** automatically.  
+- **Decision Support** → Empowers management and audit teams with **actionable intelligence**.  
+
